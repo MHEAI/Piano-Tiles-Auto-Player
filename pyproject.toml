@@ -1,0 +1,12 @@
+[project]
+name = "piano-tiles-auto-player"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=11.3.0",
+    "pyautogui>=0.9.54",
+    "pyscreeze>=1.0.1",
+    "pywin32>=311",
+]
